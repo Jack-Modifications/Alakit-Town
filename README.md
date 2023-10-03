@@ -11,6 +11,10 @@ You may install this a couple of different ways:
 # Installing via - .dze, .xml [DZE ONLY]
 1. If you choose to install this via .dze (DayZ Editor Loader) please follow these instructions:
 
+**BE ADVISED:** If you are installing the .DZE only, be sure you only install the `ALAKIT-TOWN.DZE` file.
+
+***`Alakit-Deletions.dze` is only for the init.c installation.***
+
 **DZE ONLY INSTALLATION COMING SOON, CURRENTLY MISSING AN IMPORTANT FILE!**
 
 # Installing via - Init.c, .dze, .xml
