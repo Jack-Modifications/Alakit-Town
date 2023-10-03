@@ -1,5 +1,7 @@
 DAYZ MOD - NAMALSK MAP ADDON
 
+**Join my discord:** https://discord.gg/df8qrdYR8u
+
 # MODS REQUIRED FOR THIS TO WORK:
 
 1. [DayZ Editor Loader](https://steamcommunity.com/workshop/filedetails/?id=2276010135)
