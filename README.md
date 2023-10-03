@@ -26,10 +26,7 @@ After implementing the mapgrouppos.xml, Drag n Drop the `ALAKIT-TOWN-INIT.c` int
 
 Once you have DayZ Editor Loader on your server then drag and drop `ALAKIT-DELETIONS.dze` to the `"EditorFiles"` folder. **(THIS IS CRUCIAL SINCE IT IS ONLY THE ORIGINAL NAMALSK DELETIONS IN THE .DZE FILE, NOT THE OBJECTS FROM `ALAKIT-TOWN-INIT.C`)**
 
+and add this to the end in main function: `SpawnAlakitTown();`
+
 It should look similar to the following:
 ![image](https://github.com/Jack-Modifications/refactored-octo-happiness/assets/102194777/cc68c2e8-88c4-4f36-885b-6ab5f0b625c2)
-
-
-Put this at the top of your init.c: #include "$CurrentDir:mpmissions/????????.namalsk/LUBJANSK-UPGRADE-INIT.c"
-
-and add this to the end in main function: SpawnLubjanskUpgraded();
