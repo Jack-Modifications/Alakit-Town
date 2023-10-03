@@ -29,3 +29,14 @@ and add this to the end in main function: `SpawnAlakitTown();`
 
 It should look similar to the following:
 ![image](https://github.com/Jack-Modifications/refactored-octo-happiness/assets/102194777/cc68c2e8-88c4-4f36-885b-6ab5f0b625c2)
+
+
+
+# MAIN MAP PREVIEW:
+
+![20231002201300_1](https://github.com/Jack-Modifications/Alakit-Town/assets/102194777/c31cdc4e-0ade-4a73-9eaa-bdf71ded0871)
+![20231002201315_1](https://github.com/Jack-Modifications/Alakit-Town/assets/102194777/0d72893c-2083-4a5d-89c7-d09083fceff9)
+![20231002201329_1](https://github.com/Jack-Modifications/Alakit-Town/assets/102194777/a09d27e6-5dd1-4f1d-9d0b-ea8a887fe37b)
+![20231002201406_1](https://github.com/Jack-Modifications/Alakit-Town/assets/102194777/baba038c-9336-4f8e-a4f5-afb92ffedf29)
+![20231002201417_1](https://github.com/Jack-Modifications/Alakit-Town/assets/102194777/cf9333fe-f8a0-4b2a-aeca-2db5af5456ce)
+
