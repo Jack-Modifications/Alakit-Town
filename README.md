@@ -19,9 +19,9 @@ You may install this a couple of different ways:
 
 Go to your server "mpmissions" folder and open "?????????.namalsk" folder which your server use.
 
-then head over into `copy-to-mapgrouppos.xml` and copy the contents into your `mapgrouppos.xml` in your `mpmission` -> `????????.namalsk` main directory. **(I normally put it at the top in its own section.)**
+After that, head over into `copy-to-mapgrouppos.xml` and copy the contents into your `mapgrouppos.xml` in your `mpmission` -> `????????.namalsk` main directory. **(I normally put it at the top in its own section.)**
 
-After implementing the mapgrouppos.xml contents into your servers, Put this at the top of your init.c: 
+After implementing the mapgrouppos.xml, Drag n Drop the `ALAKIT-TOWN-INIT.c` into your `????????.namalsk` main directory and put this at the top of your init.c: 
 `#include "$CurrentDir:mpmissions/????????.namalsk/ALAKIT-TOWN-INIT.c"`
 
 Once you have DayZ Editor Loader on your server then drag and drop `ALAKIT-DELETIONS.dze` to the `"EditorFiles"` folder. **(THIS IS CRUCIAL SINCE IT IS ONLY THE ORIGINAL NAMALSK DELETIONS IN THE .DZE FILE, NOT THE OBJECTS FROM `ALAKIT-TOWN-INIT.C`)**
