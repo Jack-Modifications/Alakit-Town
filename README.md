@@ -11,8 +11,7 @@ You may install this a couple of different ways:
 # Installing via - .dze, .xml [DZE ONLY]
 1. If you choose to install this via .dze (DayZ Editor Loader) please follow these instructions:
 
-
-
+**DZE ONLY INSTALLATION COMING SOON, CURRENTLY MISSING AN IMPORTANT FILE!**
 
 # Installing via - Init.c, .dze, .xml
 2.  - IF you choose to install this via `init.c` you please follow these instructions.
